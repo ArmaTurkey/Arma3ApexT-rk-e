@@ -1,0 +1,1 @@
+execVM "killfeedserver.sqf";
